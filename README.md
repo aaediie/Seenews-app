@@ -1,3 +1,19 @@
+# See-NEWS- get yourself updated
+This is a react-app powered by NEWSAPI. 
+## About app 
+This app fetches news from NEWS API and shpws the news to the user category wise with a infinity scroll function . This is resposive too and works on smartphone well.
+It also shows the time and source of the news to make it unambiguous for the user and also the transparency of source remains clear.
+
+###Screenshots of the working app
+
+![Screenshot 2022-01-12 142228](https://user-images.githubusercontent.com/68144680/149097965-fb1c269f-6fd1-40b2-8337-1c659cdce597.png)
+![news](https://user-images.githubusercontent.com/68144680/149097891-4e9d0d81-7602-458a-aa70-b45947b68b3a.jpg)
+![phoneLook](https://user-images.githubusercontent.com/68144680/149097987-99266144-4596-4439-beeb-08eb5058d784.png)
+![phoneLook2](https://user-images.githubusercontent.com/68144680/149098004-2a9fbbb9-a9f3-41a1-be3f-cf71c1d5f8cc.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
