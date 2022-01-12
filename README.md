@@ -7,8 +7,11 @@ It also shows the time and source of the news to make it unambiguous for the use
 ###Screenshots of the working app
 
 ![Screenshot 2022-01-12 142228](https://user-images.githubusercontent.com/68144680/149097965-fb1c269f-6fd1-40b2-8337-1c659cdce597.png)
-![news](https://user-images.githubusercontent.com/68144680/149097891-4e9d0d81-7602-458a-aa70-b45947b68b3a.jpg)
+
+![news](https://user-images.githubusercontent.com/68144680/149098481-fa4a5b4c-1974-4f5d-9aaf-b3115de59b12.jpg)
+
 ![phoneLook](https://user-images.githubusercontent.com/68144680/149097987-99266144-4596-4439-beeb-08eb5058d784.png)
+
 ![phoneLook2](https://user-images.githubusercontent.com/68144680/149098004-2a9fbbb9-a9f3-41a1-be3f-cf71c1d5f8cc.png)
 
 
