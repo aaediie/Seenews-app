@@ -1,7 +1,7 @@
 # See-NEWS- get yourself updated
 This is a react-app powered by NEWSAPI. 
 ## About app 
-This app fetches news from NEWS API and shpws the news to the user category wise with a infinity scroll function . This is resposive too and works on smartphone well.
+This app fetches news from NEWS API and sh0ws the news to the user category wise with a infinity scroll function . This is resposive too and works on smartphone well.
 It also shows the time and source of the news to make it unambiguous for the user and also the transparency of source remains clear.
 
 ###Screenshots of the working app
