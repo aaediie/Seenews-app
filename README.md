@@ -4,7 +4,7 @@ This is a react-app powered by NEWSAPI.
 This app fetches news from NEWS API and shows the news to the user category wise with a infinity scroll function . This is resposive too and works on smartphone well.
 It also shows the time and source of the news to make it unambiguous for the user and also the transparency of source remains clear.
 
-###Screenshots of the working app
+### Screenshots of the working app
 
 ![Screenshot 2022-01-12 142228](https://user-images.githubusercontent.com/68144680/149097965-fb1c269f-6fd1-40b2-8337-1c659cdce597.png)
 
